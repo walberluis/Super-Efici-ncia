@@ -1,3 +1,5 @@
+// https://www.thehuxley.com/problem/3735
+
 #include <stdio.h>
 
 void pontuacaoDeAs(char nome[], int tamDaPalavra, int estouNessaLetra, int armazenador, int walber[])
